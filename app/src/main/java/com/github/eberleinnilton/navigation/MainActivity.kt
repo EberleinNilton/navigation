@@ -29,10 +29,19 @@ fun AppNavigation() {
         composable("home") {
             HomeScreen()
         }
+
+        composable("details") {
+            DetailsScreen()
+        }
     }
 }
 
 @Composable
 fun HomeScreen() {
     Text("Tela Home")
+}
+
+@Composable
+fun DetailsScreen() {
+    Text("Tela de Detalhes")
 }
