@@ -17,7 +17,7 @@ Projeto desenvolvido no Android Studio para demonstrar navegação entre telas c
 ## Prints das telas
 
 ### Tela Home
-![Tela Home](app/screenshots/home.png)
+![Tela Home](screenshots/home.png)
 
 ### Tela de Detalhes
-![Tela de Detalhes](app/screenshots/details.png)
+![Tela de Detalhes](screenshots/details.png)
